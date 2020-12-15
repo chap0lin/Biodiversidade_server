@@ -1745,6 +1745,262 @@ module.exports = {
                 option_4: 'peitoral',
                 answer: 0
             },
+            {
+                question: 'Grupo de indivíduos semelhantes que, ao serem cruzados, produzem descendentes férteis:',
+                option_1: 'espécie',
+                option_2: 'ecossistema',
+                option_3: 'comunidade',
+                option_4: 'ecótono',
+                answer: 0
+            },
+            {
+                question: 'Quando vários indivíduos da mesma espécie vivem e interagem em uma mesma área, passam a formar uma ...',
+                option_1: 'comunidade',
+                option_2: 'biocenose',
+                option_3: 'ecobiose',
+                option_4: 'população',
+                answer: 3
+            },
+            {
+                question: 'A reunião e interação dos componentes bióticos de uma comunidade com os fatores abióticos locais constitui ...',
+                option_1: 'a biocenose',
+                option_2: 'o ecossistema',
+                option_3: 'a população',
+                option_4: 'a biosfera',
+                answer: 1
+            },
+            {
+                question: 'A interação que ocorre quando um organismo usa os mesmos recursos de outro organismo:',
+                option_1: 'protocooperação',
+                option_2: 'competição',
+                option_3: 'canibalismo',
+                option_4: 'foresia',
+                answer: 1
+            },
+            {
+                question: 'Cianobactérias e certas bactérias comuns são capazes de realizar fotossíntese, atuando nas cadeias alimentares como ... ',
+                option_1: 'produtores',
+                option_2: 'saprófitas',
+                option_3: 'consumidores de topo',
+                option_4: 'decompositores',
+                answer: 0
+            },
+            {
+                question: 'Os líquens podem ser considerados organismos compostos, pois resultam de uma associação mutualista íntima entre ...',
+                option_1: 'protozoário e cianobactérias',
+                option_2: 'cnidário e leveduras',
+                option_3: 'coral e pirrófitas',
+                option_4: 'fungo e algas unicelulares',
+                answer: 3
+            },
+            {
+                question: 'Relação interespecífica harmônica, com benefício unilateral:',
+                option_1: 'comensalismo',
+                option_2: 'protocooperação',
+                option_3: 'mutualismo',
+                option_4: 'amensalismo',
+                answer: 0
+            },
+            {
+                question: 'Tipo de interação observada quando os ovos de chupim são chocados por casal de tico-ticos:',
+                option_1: 'esclavagismo',
+                option_2: 'comensalismo',
+                option_3: 'amensalismo',
+                option_4: 'predatismo',
+                answer: 0
+            },
+            {
+                question: 'Ocorre quando animais de uma espécie se assemelham aos de outra espécie para obter vantagens:',
+                option_1: 'camuflagem',
+                option_2: 'mimetismo',
+                option_3: 'foresia',
+                option_4: 'sinfilia',
+                answer: 1
+            },
+            {
+                question: 'Ocorre quando animais se confundem com o ambiente no aspecto ou na coloração:',
+                option_1: 'camuflagem',
+                option_2: 'mimetismo',
+                option_3: 'foresia',
+                option_4: 'sinfilia',
+                answer: 0
+            },
+            {
+                question: 'Qual desses é um peixe que pode viver como comensal de tubarão ou de tartaruga?',
+                option_1: 'roncador',
+                option_2: 'fierasfer',
+                option_3: 'rêmora',
+                option_4: 'cioba',
+                answer: 2
+            },
+            {
+                question: 'Louva-a-Deus é um tipo de inseto em que, ao final do acasalamento, a fêmea devora seu parceiro, caracterizando um exemplo de ...',
+                option_1: 'ecobiose ',
+                option_2: 'competição',
+                option_3: 'sociedade',
+                option_4: 'canibalismo',
+                answer: 3
+            },
+            {
+                question: 'Como é chamado o último estágio alcançado por comunidades ecológicas ao longo da sucessão ecológica?',
+                option_1: 'comunidade clímax',
+                option_2: 'ecese',
+                option_3: 'sere',
+                option_4: 'biogeocenose',
+                answer: 0
+            },
+            {
+                question: 'Verifica-se relação do tipo protocooperação entre ...',
+                option_1: 'leão e hiena',
+                option_2: 'tubarão e rêmora',
+                option_3: 'japiim e graúna',
+                option_4: 'peixe-palhaço e anêmona-do-mar',
+                answer: 3
+            },
+            {
+                question: 'Qual dessas relações ecológicas pode ocorrer entre leões e hienas?',
+                option_1: 'mutualismo',
+                option_2: 'competição',
+                option_3: 'parasitismo',
+                option_4: 'sociedade',
+                answer: 1
+            },
+            {
+                question: 'Qual desses biomas NÃO ocorre no Brasil?',
+                option_1: 'caatinga',
+                option_2: 'floresta tropical',
+                option_3: 'pantanal',
+                option_4: 'tundra',
+                answer: 3
+            },
+            {
+                question: 'A famosa relação ecológica entre o cupim e protozoários do seu interesse é do tipo:',
+                option_1: 'comensalismo',
+                option_2: 'mutualismo',
+                option_3: 'amensalismo',
+                option_4: 'parasitismo',
+                answer: 1
+            },
+            {
+                question: 'Esse par de fatores contribui para aumentar a taxa de crescimento de uma população:',
+                option_1: 'natalidade e imigração',
+                option_2: 'natalidade e emigração',
+                option_3: 'mortalidade e imigração',
+                option_4: 'mortalidade e emigração',
+                answer: 0
+            },
+            {
+                question: 'Interação em que uma espécie é beneficiada ao ser transportada pela outra, que não é prejudicada:',
+                option_1: 'amensalismo',
+                option_2: 'forésia',
+                option_3: 'sinfilia',
+                option_4: 'protocooperação',
+                answer: 1
+            },
+            {
+                question: 'A relação ecológica entre o maracujazeiro e a mamangava (um tipo de abelha) que faz sua polinização é do tipo ...',
+                option_1: 'comensalismo',
+                option_2: 'protocooperação',
+                option_3: 'canibalismo',
+                option_4: 'amensalismo',
+                answer: 1
+            },
+            {
+                question: 'Qual desses é um ponto comum entre urubus e minhocas?',
+                option_1: 'fixam nitrogênio da atmosfera',
+                option_2: 'hibernam no inverno',
+                option_3: 'são detritívoros',
+                option_4: 'são decompositores',
+                answer: 2
+            },
+            {
+                question: 'O que piolhos e carrapatos têm em comum?',
+                option_1: 'são insetos',
+                option_2: 'vivem em sociedade',
+                option_3: 'são parasitas',
+                option_4: 'vivem em mutualismo',
+                answer: 2
+            },
+            {
+                question: 'Qual dessas é uma relação harmônica intraespecífica?',
+                option_1: 'colônia',
+                option_2: 'forésia',
+                option_3: 'antibiose',
+                option_4: 'comensalismo',
+                answer: 0
+            },
+            {
+                question: 'Qual desses é um inseto que parasita plantas?',
+                option_1: 'barbeiro',
+                option_2: 'carrapato',
+                option_3: 'mamangava',
+                option_4: 'pulgão',
+                answer: 3
+            },
+            {
+                question: '“Um anu devora vários carrapatos que sugavam sangue de um boi”. Qual dessas relações NÃO está presente?',
+                option_1: 'protocooperação',
+                option_2: 'parasitismo',
+                option_3: 'predatismo',
+                option_4: 'amensalismo',
+                answer: 3
+            },
+            {
+                question: 'Entre leões, quando um macho devora os filhotes de um antigo líder do grupo, temos um exemplo de ...',
+                option_1: 'amensalismo',
+                option_2: 'canibalismo',
+                option_3: 'comensalismo',
+                option_4: 'predatismo',
+                answer: 1
+            },
+            {
+                question: 'Como é chamado um dos exemplos mais conhecidos de amensalismo, resultante da proliferação exagerada de algumas pirrófitas produtoras de toxinas?',
+                option_1: 'adubação verde',
+                option_2: 'bioluminescência',
+                option_3: 'maré vermelha',
+                option_4: 'vernalização',
+                answer: 2
+            },
+            {
+                question: 'Os seres vivos interagem entre si e com todas as partes não vivas do ambiente, tais como solo, água e temperatura. Como são chamadas essas partes não vivas?',
+                option_1: 'fatores abióticos',
+                option_2: 'fatores bióticos',
+                option_3: 'biosferas',
+                option_4: 'biomas',
+                answer: 0
+            },
+            {
+                question: 'Uma teia alimentar é constituída por plantas frutíferas, fungos de solo, bactérias, coelhos, raposas, papagaios, capim e cobras. Quais são os produtores nessa teia?',
+                option_1: 'fungos de solo',
+                option_2: 'raposas e cobras',
+                option_3: 'plantas frutíferas e capim',
+                option_4: 'bactérias e fungos',
+                answer: 2
+            },
+            {
+                question: 'Os cupins são organismos que vivem em cidadelas construídas de barro e conhecidas como cupinzeiros, onde repartem as funções. Como é chamada a relação entre os moradores dessas cidadelas?',
+                option_1: 'comensalismo',
+                option_2: 'sociedade',
+                option_3: 'forésia',
+                option_4: 'antibiose',
+                answer: 1
+            },
+            {
+                question: 'Que animal da América do Norte é equivalente ecológico do Gnu africano?',
+                option_1: 'coala',
+                option_2: 'bisão',
+                option_3: 'camelo',
+                option_4: 'urso pardo',
+                answer: 1
+            },
+            {
+                question: 'O anu preto e o pica-pau-de-banda-branca alimentam-se de insetos. Então, pode-se concluir que eles ...',
+                option_1: 'ocupam o mesmo nicho ecológico',
+                option_2: 'fazem parte da mesma guilda',
+                option_3: 'pertencem à mesma família',
+                option_4: 'estão em vias de extinção',
+                answer: 1
+            },
     ])
     }
 }
