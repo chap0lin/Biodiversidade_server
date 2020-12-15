@@ -985,6 +985,766 @@ module.exports = {
                 option_4: 'Thomas Morgan',
                 answer: 3
             },
+            {
+                question: 'Qual desses é um grupo de répteis?',
+                option_1: 'Lagomorfos',
+                option_2: 'Urodelos',
+                option_3: 'Lacertílios',
+                option_4: 'Coleópteros',
+                answer: 2
+            },
+            {
+                question: 'A Sucuri ou Anaconda é um tipo de cobra encontrada naturalmente na ...',
+                option_1: 'América do Sul',
+                option_2: 'África',
+                option_3: 'Ásia',
+                option_4: 'Europa',
+                answer: 0
+            },
+            {
+                question: 'Que plantas possuem flores e abrigam suas sementes no interior de frutos?',
+                option_1: 'Briófitas',
+                option_2: 'Pteridófitas',
+                option_3: 'Gimnospermas',
+                option_4: 'Angiospermas',
+                answer: 3
+            },
+            {
+                question: 'Qual o nome do grupo de invertebrados que inclui carrapatos e escorpiões?',
+                option_1: 'Acarina',
+                option_2: 'Aracnida',
+                option_3: 'Crustacea',
+                option_4: 'Insecta',
+                answer: 1
+            },
+            {
+                question: 'Qual a utilidade do colorido vistoso de flores em muitas espécies de angiospermas?',
+                option_1: 'camuflagem',
+                option_2: 'atrair insetos polinizadores',
+                option_3: 'afastar herbívoros',
+                option_4: 'evitar a evaporação excessiva',
+                answer: 1
+            },
+            {
+                question: 'Qual das plantas abaixo é um exemplo de planta avascular?',
+                option_1: 'açaizeiro',
+                option_2: 'mangueira',
+                option_3: 'musgo',
+                option_4: 'samambaia',
+                answer: 2
+            },
+            {
+                question: 'Qual dos animais a seguir NÃO pertence à ordem dos cetáceos?',
+                option_1: 'orca',
+                option_2: 'baleia jubarte',
+                option_3: 'boto',
+                option_4: 'foca',
+                answer: 3
+            },
+            {
+                question: 'Qual desses animais é um exemplo de mamífero marsupial?',
+                option_1: 'boto',
+                option_2: 'canguru',
+                option_3: 'vaca',
+                option_4: 'preguiça',
+                answer: 1
+            },
+            {
+                question: 'Mamíferos primitivos, que possuem bico e são ovíparos:',
+                option_1: 'Cetáceos',
+                option_2: 'Quirópteros',
+                option_3: 'Marsupiais',
+                option_4: 'Monotremos',
+                answer: 3
+            },
+            {
+                question: 'Entre os ofídios, existem espécies não venenosas, como:',
+                option_1: 'a cascavel',
+                option_2: 'a jararaca',
+                option_3: 'a sucuri',
+                option_4: 'a surucucu',
+                answer: 2
+            },
+            {
+                question: 'Uma característica marcante desses invertebrados é um esqueleto externo composto principalmente pelo carboidrato chamado quitina:',
+                option_1: 'Artrópodes',
+                option_2: 'Cnidários',
+                option_3: 'Moluscos',
+                option_4: 'Equinodermas',
+                answer: 0
+            },
+            {
+                question: 'Que tipo de inseto atua como vetor do microrganismo causador da malária?',
+                option_1: 'barbeiro',
+                option_2: 'pulga',
+                option_3: 'mosca',
+                option_4: 'mosquito',
+                answer: 3
+            },
+            {
+                question: 'Que tipo de inseto atua como vetor do microrganismo causador da doença de chagas?',
+                option_1: 'barbeiro',
+                option_2: 'mosquito',
+                option_3: 'piolho',
+                option_4: 'pulga',
+                answer: 0
+            },
+            {
+                question: 'Característica do revestimento corporal de mamíferos, que os diferencia de outros animais:',
+                option_1: 'escamas',
+                option_2: 'pelos',
+                option_3: 'plumas',
+                option_4: 'cerdas',
+                answer: 1
+            },
+            {
+                question: 'Qual das frutas a seguir é considerada um pseudofruto?',
+                option_1: 'caju',
+                option_2: 'abacate',
+                option_3: 'mamão',
+                option_4: 'banana',
+                answer: 0
+            },
+            {
+                question: 'Na organização hierárquica dos seres vivos, um conjunto de gêneros constitui ...',
+                option_1: 'uma família',
+                option_2: 'uma ordem',
+                option_3: 'uma classe',
+                option_4: 'um filo',
+                answer: 0
+            },
+            {
+                question: 'Qual desses contém maior variedade de seres vivos?',
+                option_1: 'Hominídeos',
+                option_2: 'Primatas',
+                option_3: 'Mamíferos',
+                option_4: 'Cordados',
+                answer: 3
+            },
+            {
+                question: 'Tipo de célula que não apresenta uma membrana nuclear (carioteca), ficando o seu material genético disperso no citoplasma:',
+                option_1: 'autotrófica',
+                option_2: 'heterotrófica',
+                option_3: 'eucarionte',
+                option_4: 'procarionte',
+                answer: 3
+            },
+            {
+                question: 'Qual dessas doenças humanas NÃO é causada por bactérias?',
+                option_1: 'gonorreia',
+                option_2: 'sífilis',
+                option_3: 'tuberculose',
+                option_4: 'malária',
+                answer: 3
+            },
+            {
+                question: 'Como é chamada a zoonose transmitida ao homem pela picada de Amblyomma cajennense (carrapato-estrela)?',
+                option_1: 'febre maculosa',
+                option_2: 'doença de Chagas',
+                option_3: 'febre amarela',
+                option_4: 'peste bubônica',
+                answer: 0
+            },
+            {
+                question: 'Qual desses fungos é capaz de inibir a formação da parede celular de algumas bactérias?',
+                option_1: 'Amanita',
+                option_2: 'Penicillium',
+                option_3: 'Agaricus',
+                option_4: 'Psilocybe',
+                answer: 1
+            },
+            {
+                question: 'Alguns fungos produzem toxinas. Como elas são chamadas?',
+                option_1: 'toxinas botulínicas',
+                option_2: 'toxinas tetânicas',
+                option_3: 'micotoxinas',
+                option_4: 'cianotoxinas',
+                answer: 2
+            },
+            {
+                question: 'Qual dessas é considerada a maior árvore do mundo, podendo ultrapassar 100 metros de altura e viver mais de 1000 anos?',
+                option_1: 'carvalho da Europa',
+                option_2: 'jequitibá do Brasil',
+                option_3: 'eucalipto da Austrália',
+                option_4: 'sequoia da Califórnia',
+                answer: 3
+            },
+            {
+                question: 'Um homem que só comia “sushi” desenvolveu uma solitária no seu intestino. Qual deve ser a espécie de solitária?',
+                option_1: 'Diphyllobothrium latum',
+                option_2: 'Hymenolepis nana',
+                option_3: 'Taenia solium',
+                option_4: 'Taenia saginata',
+                answer: 0
+            },
+            {
+                question: 'Além da captura de espécimes da natureza, alguns moluscos são provenientes do cultivo em cativeiro, o qual chamamos de ...',
+                option_1: 'carcinicultura',
+                option_2: 'ranicultura',
+                option_3: 'malacocultura',
+                option_4: 'piscicultura',
+                answer: 2
+            },
+            {
+                question: 'Qual desses NÃO é um nematelminto?',
+                option_1: 'filária',
+                option_2: 'lombriga',
+                option_3: 'oxiúro',
+                option_4: 'solitária',
+                answer: 3
+            },
+            {
+                question: 'Apenas uma das características a seguir NÃO representa adaptação de aves para voar. Qual?',
+                option_1: 'osso esterno em forma de quilha',
+                option_2: 'ossos pneumáticos',
+                option_3: 'músculo diafragma',
+                option_4: 'sacos aéreos nos pulmões',
+                answer: 2
+            },
+            {
+                question: 'De qual desses é obtido o captopril, um dos medicamentos mais usados no mundo para o combate à hipertensão arterial?',
+                option_1: 'ferrão de arraia',
+                option_2: 'azeite de andiroba',
+                option_3: 'folha de coramina',
+                option_4: 'veneno de jararaca',
+                answer: 3
+            },
+            {
+                question: 'De acordo com a filogenia dos mamíferos, qual desses é parente mais próximo da baleia?',
+                option_1: 'foca',
+                option_2: 'hipopótamo',
+                option_3: 'morcego',
+                option_4: 'ornitorrinco',
+                answer: 1
+            },
+            {
+                question: 'Quais são as plantas que, embora dotadas de alguns tecidos diferenciados, NÃO possuem raízes e folhas verdadeiras, nem vasos condutores de seiva?',
+                option_1: 'Briófitas',
+                option_2: 'Pteridófitas',
+                option_3: 'Gimnospermas',
+                option_4: 'Angiospermas',
+                answer: 0
+            },
+            {
+                question: 'O termo que se refere a vírus transportados por artrópodes:',
+                option_1: 'Adenovírus',
+                option_2: 'Arbovírus',
+                option_3: 'Herpesvírus',
+                option_4: 'Retrovírus',
+                answer: 1
+            },
+            {
+                question: 'HTLV e HIV são vírus do grupo dos ...',
+                option_1: 'Adenovírus',
+                option_2: 'Arbovírus',
+                option_3: 'Herpesvírus',
+                option_4: 'Retrovírus',
+                answer: 3
+            },
+            {
+                question: 'São produtos da fermentação realizada por leveduras:',
+                option_1: 'ácido lático e oxigênio',
+                option_2: 'ácido lático e gás carbônico',
+                option_3: 'etanol e oxigênio',
+                option_4: 'etanol e gás carbônico',
+                answer: 3
+            },
+            {
+                question: 'Quais plantas vasculares produzem sementes, mas NÃO formam frutos?',
+                option_1: 'Briófitas',
+                option_2: 'Pteridófitas',
+                option_3: 'Gimnospermas',
+                option_4: 'Angiospermas',
+                answer: 2
+            },
+            {
+                question: 'A produção natural de ágar pode ser observada em espécies do grupo das ...',
+                option_1: 'algas verdes',
+                option_2: 'algas pardas',
+                option_3: 'algas vermelhas',
+                option_4: 'algas douradas',
+                answer: 2
+            },
+            {
+                question: 'Qual a classe de moluscos que inclui turus e vieiras?',
+                option_1: 'Gastrópodes',
+                option_2: 'Bivalves',
+                option_3: 'Cefalópodes',
+                option_4: 'Escafópodes',
+                answer: 1
+            },
+            {
+                question: 'O nome cientifico do açaizeiro é Euterpe oleracea. A palavra Euterpe, usada isoladamente, indica seu (sua) ...',
+                option_1: 'gênero',
+                option_2: 'filo',
+                option_3: 'ordem',
+                option_4: 'classe',
+                answer: 0
+            },
+            {
+                question: 'Qual desses cientistas identificou a espécie Trypanosoma cruzi, seu ciclo evolutivo e o inseto transmissor?',
+                option_1: 'Joseph Bancroft',
+                option_2: 'Carlos Chagas',
+                option_3: 'Gaspar Viana',
+                option_4: 'Oswaldo Cruz',
+                answer: 1
+            },
+            {
+                question: 'O Bob Esponja, personagem de um desenho animado da TV, refere-se a animal do grupo dos ...',
+                option_1: 'Cnidários',
+                option_2: 'Equinodermas',
+                option_3: 'Moluscos',
+                option_4: 'Poríferos',
+                answer: 3
+            },
+            {
+                question: 'Qual desses animais tem esqueleto cartilaginoso?',
+                option_1: 'pinguim',
+                option_2: 'sapo',
+                option_3: 'tubarão',
+                option_4: 'zebra',
+                answer: 2
+            },
+            {
+                question: 'Qual dessas NÃO é transmitida pelo Aedes aegypti?',
+                option_1: 'febre amarela',
+                option_2: 'dengue',
+                option_3: 'febre maculosa',
+                option_4: 'chikungunya',
+                answer: 2
+            },
+            {
+                question: 'Qual desses vírus tem o RNA como material genético?',
+                option_1: 'Retrovírus',
+                option_2: 'Adenovírus',
+                option_3: 'Herpesvírus',
+                option_4: 'Papilomavírus',
+                answer: 0
+            },
+            {
+                question: 'No vírus H1N1, a letra “H” é inicial do nome de qual proteína, que o vírus utiliza para se fixar à célula hospedeira?',
+                option_1: 'hemeritina',
+                option_2: 'hemaglutinina',
+                option_3: 'hemoglobina',
+                option_4: 'hemocianina',
+                answer: 1
+            },
+            {
+                question: 'Qual desses NÃO é um equinoderma?',
+                option_1: 'estrela-do-mar',
+                option_2: 'ouriço-do-mar',
+                option_3: 'anêmona-do-mar',
+                option_4: 'pepino-do-mar',
+                answer: 2
+            },
+            {
+                question: 'Qual dessas doenças é causada por um protozoário?',
+                option_1: 'febre amarela',
+                option_2: 'toxoplasmose',
+                option_3: 'sífilis',
+                option_4: 'cisticercose',
+                answer: 1
+            },
+            {
+                question: 'A presença do manto que secreta uma concha é característica de animais do grupo dos ...',
+                option_1: 'Anelidas',
+                option_2: 'Cnidários',
+                option_3: 'Artrópodes',
+                option_4: 'Moluscos',
+                answer: 3
+            },
+            {
+                question: 'Filete e Antera integram a folha masculina da flor, que é chamada ...',
+                option_1: 'estame',
+                option_2: 'carpelo',
+                option_3: 'sépala',
+                option_4: 'pétala',
+                answer: 0
+            },
+            {
+                question: 'Wakame, Kombu e Nori, comuns na culinária oriental, são ...',
+                option_1: 'Algas',
+                option_2: 'Angiospermas',
+                option_3: 'Invertebrados',
+                option_4: 'Briófitas',
+                answer: 0
+            },
+            {
+                question: 'Qual desses cientistas é indicado como o descobridor da penicilina? ',
+                option_1: 'Erwin Chargaff',
+                option_2: 'Giulio Bizzozero',
+                option_3: 'Alexander Fleming',
+                option_4: 'Ernst Mayr',
+                answer: 2
+            },
+            {
+                question: 'Giardia e Tripanossomo locomovem-se por meio de ...',
+                option_1: 'cílios',
+                option_2: 'flagelos',
+                option_3: 'pseudópodes',
+                option_4: 'espículas',
+                answer: 1
+            },
+            {
+                question: 'O que o entomólogo estuda?',
+                option_1: 'Aves',
+                option_2: 'Crustáceos',
+                option_3: 'Insetos',
+                option_4: 'Fungos',
+                answer: 2
+            },
+            {
+                question: 'O estudo dos fungos é chamado ...',
+                option_1: 'Ornitologia',
+                option_2: 'Malacologia',
+                option_3: 'Entomologia',
+                option_4: 'Micologia',
+                answer: 3
+            },
+            {
+                question: 'A qual grupo de animais pertence a água-viva?',
+                option_1: 'Artrópodes',
+                option_2: 'Moluscos',
+                option_3: 'Cnidários',
+                option_4: 'Equinodermas',
+                answer: 2
+            },
+            {
+                question: 'Como são chamadas as bactérias esféricas que se organizam em grupos, semelhantes a cachos de uva?',
+                option_1: 'bacilos',
+                option_2: 'estafilococos',
+                option_3: 'gonococos',
+                option_4: 'espirilos',
+                answer: 1
+            },
+            {
+                question: 'Bactérias capazes de fixar o gás nitrogênio podem viver nas raízes de plantas como ...',
+                option_1: 'o milho',
+                option_2: 'a banana',
+                option_3: 'o feijão',
+                option_4: 'a melancia',
+                answer: 2
+            },
+            {
+                question: 'Qual desses grupos de seres vivos NÃO é incluído entre os protozoários?',
+                option_1: 'Esporozoários',
+                option_2: 'Mastigóforos',
+                option_3: 'Mixosporídeos',
+                option_4: 'Sarcodinos',
+                answer: 2
+            },
+            {
+                question: 'Como é chamado o conjunto de peças masculinas de uma flor?',
+                option_1: 'androceu',
+                option_2: 'gineceu',
+                option_3: 'carpelo',
+                option_4: 'perianto',
+                answer: 0
+            },
+            {
+                question: 'São vermes:',
+                option_1: 'tuchina e ameba',
+                option_2: 'solitária e lombriga',
+                option_3: 'cogumelo e ancilóstomo',
+                option_4: 'filária e riquétsia',
+                answer: 1
+            },
+            {
+                question: 'Quem formalizou a utilização do sistema de nomenclatura binominal para as espécies de seres vivos?',
+                option_1: 'Lineu',
+                option_2: 'Darwin',
+                option_3: 'Lamarck',
+                option_4: 'Dobzhanski',
+                answer: 0
+            },
+            {
+                question: 'Qual desses animais NÃO é um crustáceo?',
+                option_1: 'craca',
+                option_2: 'caracol',
+                option_3: 'lagosta',
+                option_4: 'caranguejo',
+                answer: 1
+            },
+            {
+                question: 'Após a fecundação em uma planta espermatófita, o óvulo transforma-se em ...',
+                option_1: 'semente',
+                option_2: 'fruto',
+                option_3: 'pistilo',
+                option_4: 'xilema',
+                answer: 0
+            },
+            {
+                question: 'Após a fecundação na flor de uma angiosperma, o ovário cresce e se transforma em ...',
+                option_1: 'semente',
+                option_2: 'fruto',
+                option_3: 'pistilo',
+                option_4: 'xilema',
+                answer: 1
+            },
+            {
+                question: 'Bacilariófitas são algas douradas. Nesse grupo destacam-se as ...',
+                option_1: 'Feofíceas',
+                option_2: 'Euglenófitas',
+                option_3: 'Zooxantelas',
+                option_4: 'Diatomáceas',
+                answer: 3
+            },
+            {
+                question: 'Qual a maneira correta de escrever o nome científico do açaí?',
+                option_1: 'euterpe Oleracea',
+                option_2: 'euterpe oleracea',
+                option_3: 'Euterpe oleracea',
+                option_4: 'Euterpe Oleracea',
+                answer: 2
+            },
+            {
+                question: 'Qual dessas plantas NÃO forma flores?',
+                option_1: 'samambaia',
+                option_2: 'mangueira',
+                option_3: 'roseira',
+                option_4: 'alecrim',
+                answer: 0
+            },
+            {
+                question: 'Qual dessas doenças é um exemplo de micose?',
+                option_1: 'ascaridíase',
+                option_2: 'gota',
+                option_3: 'malária',
+                option_4: 'sapinho',
+                answer: 3
+            },
+            {
+                question: 'Como é conhecido o cultivo de mexilhões?',
+                option_1: 'Mitilicultura',
+                option_2: 'Viticultura',
+                option_3: 'Piscicultura',
+                option_4: 'Ranicultura',
+                answer: 0
+            },
+            {
+                question: 'Qual desses mamíferos NÃO é um marsupial?',
+                option_1: 'canguru',
+                option_2: 'diabo-da-tasmânia',
+                option_3: 'mucura',
+                option_4: 'panda',
+                answer: 3
+            },
+            {
+                question: 'Qual desses animais NÃO pertence ao grupo dos osteíctes?',
+                option_1: 'cavalo-marinho',
+                option_2: 'peixe-leão',
+                option_3: 'peixe-boi',
+                option_4: 'peixe-palhaço',
+                answer: 2
+            },
+            {
+                question: 'Quais desses animais pertencem à mesma família dos elefantes e foram extintos há 5,6 mil anos, após a última glaciação?',
+                option_1: 'dodô',
+                option_2: 'mamutes',
+                option_3: 'trilobitas',
+                option_4: 'pterodáctilos',
+                answer: 1
+            },
+            {
+                question: 'Qual dessas doenças NÃO é prevenida pela lavagem das mãos?',
+                option_1: 'Covid-19',
+                option_2: 'Mononucleose',
+                option_3: 'Ascaridíase',
+                option_4: 'Malária',
+                answer: 3
+            },
+            {
+                question: 'Qual dessas NÃO é uma doença infecciosa?',
+                option_1: 'anemia falciforme',
+                option_2: 'tuberculose',
+                option_3: 'leishmaniose',
+                option_4: 'febre amarela',
+                answer: 0
+            },
+            {
+                question: 'Qual desses animais é hermafrodita?',
+                option_1: 'camaleão',
+                option_2: 'lombriga',
+                option_3: 'preguiça',
+                option_4: 'solitária',
+                answer: 3
+            },
+            {
+                question: 'Qual desses animais é cordado, porém invertebrado?',
+                option_1: 'ascídia',
+                option_2: 'arraia',
+                option_3: 'centopeia',
+                option_4: 'lampreia',
+                answer: 0
+            },
+            {
+                question: 'Como é chamado o gameta feminino das plantas?',
+                option_1: 'óvulo',
+                option_2: 'oosfera',
+                option_3: 'anterozoide',
+                option_4: 'esporo',
+                answer: 1
+            },
+            {
+                question: 'Como são chamadas as sementes de pinheiro?',
+                option_1: 'cones',
+                option_2: 'pinhas',
+                option_3: 'pinhões',
+                option_4: 'estróbilos',
+                answer: 2
+            },
+            {
+                question: 'Como é chamada a forma vágil de cnidários, que se desloca ativamente na água?',
+                option_1: 'anfiblástula',
+                option_2: 'alevino',
+                option_3: 'pólipo',
+                option_4: 'medusa',
+                answer: 3
+            },
+            {
+                question: 'São protozooses transmitidas por mosquitos:',
+                option_1: 'dengue e doença do sono',
+                option_2: 'leishmaniose e malária',
+                option_3: 'doença de chagas e filariose',
+                option_4: 'toxoplasmose e zika',
+                answer: 1
+            },
+            {
+                question: 'Como é chamado o hormônio polipeptídico que, em mamíferos, estimula as contrações do útero por ocasião do parto?',
+                option_1: 'adrenalina',
+                option_2: 'somatotrofina',
+                option_3: 'ocitocina',
+                option_4: 'vasopressina',
+                answer: 2
+            },
+            {
+                question: 'Qual desses NÃO pertence ao reino fungi?',
+                option_1: 'champgnon',
+                option_2: 'levedura de cerveja',
+                option_3: 'erva-doce',
+                option_4: 'bolor',
+                answer: 2
+            },
+            {
+                question: 'Qual desses é parente mais próximo do tubarão?',
+                option_1: 'arraia',
+                option_2: 'baleia',
+                option_3: 'beijupirá',
+                option_4: 'tambaqui',
+                answer: 0
+            },
+            {
+                question: 'Qual dessas plantas está mais proximamente relacionada aos pinheiros?',
+                option_1: 'castanheira',
+                option_2: 'coqueiro',
+                option_3: 'samambaia',
+                option_4: 'sequoia',
+                answer: 3
+            },
+            {
+                question: 'Qual dessas é uma característica dos condrictes?',
+                option_1: 'bexiga natatória',
+                option_2: 'sacos aéreos',
+                option_3: 'esqueleto cartilaginoso',
+                option_4: 'esqueleto ósseo',
+                answer: 2
+            },
+            {
+                question: 'Qual desses NÃO é um mamífero?',
+                option_1: 'foca',
+                option_2: 'peixe-bruxa',
+                option_3: 'orca',
+                option_4: 'peixe-boi',
+                answer: 1
+            },
+            {
+                question: 'Os anfíbios geralmente têm uma fase jovem conhecida como ...',
+                option_1: 'alevino',
+                option_2: 'girino',
+                option_3: 'lagarta',
+                option_4: 'ninfa',
+                answer: 1
+            },
+            {
+                question: 'Quais são os anfíbios que não possuem patas, mesmo na fase adulta?',
+                option_1: 'Gimnofionos',
+                option_2: 'Pelecípodes',
+                option_3: 'Testudinatas',
+                option_4: 'Urodelos',
+                answer: 0
+            },
+            {
+                question: 'Quais desses são moluscos cefalópodes?',
+                option_1: 'caramujos e lesmas',
+                option_2: 'ostras e turus',
+                option_3: 'polvos e lulas',
+                option_4: 'camarões e lagostas',
+                answer: 2
+            },
+            {
+                question: 'Qual desses NÃO pertence ao filo Chordata?',
+                option_1: 'lampreia',
+                option_2: 'pirarucu',
+                option_3: 'camarão',
+                option_4: 'salamandra',
+                answer: 2
+            },
+            {
+                question: 'Qual termo que designa o conjunto formado por cálice e corola da flor?',
+                option_1: 'androceu',
+                option_2: 'gineceu',
+                option_3: 'pedúnculo',
+                option_4: 'perianto',
+                answer: 3
+            },
+            {
+                question: 'Qual dessas estruturas participa da reprodução de samambaias?',
+                option_1: 'esporos',
+                option_2: 'pinhas',
+                option_3: 'sorédios',
+                option_4: 'sementes',
+                answer: 0
+            },
+            {
+                question: 'Qual desses insetos faz parte da ordem dos lepidópteros?',
+                option_1: 'abelha',
+                option_2: 'borboleta',
+                option_3: 'gafanhoto',
+                option_4: 'mosca',
+                answer: 1
+            },
+            {
+                question: 'A fermentação nos músculos produz qual subproduto?',
+                option_1: 'ácido lático',
+                option_2: 'água',
+                option_3: 'etanol',
+                option_4: 'gás carbônico',
+                answer: 0
+            },
+            {
+                question: 'O chamado soro antibotrópico é indicado contra o veneno de ...',
+                option_1: 'centopeia',
+                option_2: 'jararaca',
+                option_3: 'escorpião',
+                option_4: 'surucucu',
+                answer: 1
+            },
+            {
+                question: 'Qual desses insetos NÃO pertence à ordem dos himenópteros?',
+                option_1: 'abelha',
+                option_2: 'percevejo',
+                option_3: 'formiga',
+                option_4: 'vespa',
+                answer: 1
+            },
+            {
+                question: 'Nos mamíferos, qual o músculo que divide o tronco em tórax e abdômen?',
+                option_1: 'diafragma',
+                option_2: 'esternocleidomastoideo',
+                option_3: 'intercostal',
+                option_4: 'peitoral',
+                answer: 0
+            },
     ])
     }
 }
