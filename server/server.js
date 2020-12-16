@@ -19,7 +19,7 @@ var titleObject = {
     rooms: [
         {
             id: 1,
-            name: 'Sala Geral 1',
+            name: 'Jogadores:',
             size: 50,
             n_players: 0,
             players: []
