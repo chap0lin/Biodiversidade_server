@@ -2,7 +2,7 @@ const path =  require('path')
 require('dotenv/config')
 
 module.exports = {
-    client: 'pg',
+    client: 'mysql2',
     connection: {
         host: process.env.PG_HOST,
         user : process.env.PG_USER,
@@ -14,6 +14,5 @@ module.exports = {
     },
     seeds: {
         directory: path.resolve(__dirname, 'server', 'database', 'seeds')
-    },
-    useNullAsDefault: true,
+    }
 }

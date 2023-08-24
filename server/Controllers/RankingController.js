@@ -2,7 +2,7 @@ const knex = require('../database/connection')
 
 class RankingController{
     async getQuiz(request, response){
-        const raw_questions = await knex('questions').select('*').orderByRaw('RANDOM()').limit(7)
+        const raw_questions = await knex('questions').select('*').orderByRaw('RAND()').limit(7)
         const formated_questions = []
         await raw_questions.map(item => {
             formated_questions.push({
@@ -16,7 +16,7 @@ class RankingController{
         response.json(formated_questions)
     }
     async getQuizQuestions(){
-        const raw_questions = await knex('questions').select('*').orderByRaw('RANDOM()').limit(7)
+        const raw_questions = await knex('questions').select('*').orderByRaw('RAND()').limit(7)
         const formated_questions = []
         await raw_questions.map(item => {
             formated_questions.push({
