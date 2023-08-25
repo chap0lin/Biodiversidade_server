@@ -9,6 +9,7 @@ const questionsController = new QuestionsController()
 const rankingController = new RankingController()
 
 const app = express()
+const server = require("https").createServer({key: fs.readFileSync("/root/adega/privkey.pem"), cert: fs.readFileSync("/root/adega/cert.pem")}, app);
 
 app.use(cors())
 app.use(express.json());
@@ -281,6 +282,6 @@ function gameEnded(gameIndex, gameFailed = false){
     
 }
 
-app.listen(process.env.PORT || 3333, ()=>{
+server.listen(process.env.PORT || 3333, ()=>{
     console.log('> Server listening')
 })
